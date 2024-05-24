@@ -3,6 +3,5 @@ uuid = "b5a69fe8-1b48-400f-b5e7-a6cbc06d7432"
 repo = "https://github.com/gaetanfacchinetti/CosmoRegistry.git"
 
 [packages]
-6d05cea8-18e5-46a6-8a52-644cd40e080a = { name = "EddingtonInversion", path = "E/EddingtonInversion" }
 9758ad2b-40e1-4c0d-bfef-dec73165ab59 = { name = "HostHalos", path = "H/HostHalos" }
 fab82211-602b-461d-8fab-2b676713216d = { name = "CosmoTools", path = "C/CosmoTools" }
