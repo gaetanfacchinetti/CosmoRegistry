@@ -1,0 +1,5 @@
+name = "CosmoRegistry"
+uuid = "b5a69fe8-1b48-400f-b5e7-a6cbc06d7432"
+repo = "https://github.com/gaetanfacchinetti/CosmoRegistry.git"
+
+[packages]
